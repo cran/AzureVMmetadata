@@ -1,8 +1,8 @@
-d9b4c1f4d86e2dabd0450092afc96e3f *DESCRIPTION
+4b177b49ab280cd7c9e3b50ba1866d20 *DESCRIPTION
 4dd4040e3beaa3462c568ce9d0620d9d *LICENSE
 d0aa2e6373c55968744a8b5f76a585bd *NAMESPACE
 a1b16e3028662ed5ea0df5e41e9b945e *R/AzureVMmetadata.R
-ebbbabd8816ac7edd5d9ed691d6934bc *README.md
+a5fea2bc6f727b1ef5b53cd9d66a9150 *README.md
 e9a47c5b20311786fdeed60dc043fee5 *man/figures/logo.png
 1333a56a9b25782163e1eb1d0e79681e *man/in_azure_vm.Rd
 20d9ba961d6c6e340ea7e1664cd4930c *man/metadata.Rd
